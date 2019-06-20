@@ -1,0 +1,21 @@
+{
+    "workbench.editor.enablePreview": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": [
+        {
+            "language": "vue",
+            "autoFix": true
+        },
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "javascript",
+            "autoFix": true
+        }
+    ],
+    "editor.formatOnSave": true,
+    "eslint.enable": true
+}

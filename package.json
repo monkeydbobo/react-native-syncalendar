@@ -1,0 +1,23 @@
+{
+  "name": "react-native-syncalendar",
+  "version": "1.0.0",
+  "description": "同步到事件到手机原生日历",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeydbobo/react-native-syncalendar.git"
+  },
+  "keywords": [
+    "calendar",
+    "native"
+  ],
+  "author": "wanghaobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monkeydbobo/react-native-syncalendar/issues"
+  },
+  "homepage": "https://github.com/monkeydbobo/react-native-syncalendar#readme"
+}
